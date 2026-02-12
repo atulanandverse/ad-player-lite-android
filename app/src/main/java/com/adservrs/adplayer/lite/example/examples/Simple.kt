@@ -109,7 +109,6 @@ fun SimpleExample(modifier: Modifier) {
                                     }
                                 }
                             }
-                            controller?.resume()
                             view
                         },
                         onRelease = {
